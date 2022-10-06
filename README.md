@@ -6,4 +6,4 @@ During my work as a researcher in the Researcher in Semiconductor Device Modelli
 
 The parallel algorithm is shown below
 
-![The parallel algorithm](/assets/images/alghorithm.png)
+![The parallel algorithm](/assets/images/algorithm.png)
